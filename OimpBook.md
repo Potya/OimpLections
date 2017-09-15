@@ -18,13 +18,13 @@
 
 Ссылки на лекции. Всего 10 лекций, значит 10 ссылок. назовем по темам.
 
-1. Первая [HREF](/First_lection.md/)
-2. Вторая
-3. Третья
-4. Четвертая
-5. Пятая
-6. Шестая
-7. Седьмая
-8. Восьмая
-9. Девятая
-10. Десятая
+1. [Первая](/First_lection.md/)
+2. [Вторая](/Second_lection.md/)
+3. [Третья](/Third_lection.md/)
+4. [Четвертая](/Fourth_lection.md/)
+5. [Пятая](/Fifth_lection.md/)
+6. [Шестая](/Sixth_lection.md/)
+7. [Седьмая](/Seventh_lection.md/)
+8. [Восьмая](/Eighth_lection.md/)
+9. [Девятая](/Nineth_lection.md/)
+10. [Десятая](/Tenth_lection.md/)
