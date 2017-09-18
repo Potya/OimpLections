@@ -18,15 +18,15 @@
 
 Ссылки на лекции. Всего 10 лекций, значит 10 ссылок. назовем по номерам.
 
-1. [Первая](/New_lections/First_lection.md/) Циклы и условный оператор
-2. [Вторая](/New_lections/Second_lection.md/) Вектор, сортировка и лямбда-функция
-3. [Третья](/New_lections/Third_lection.md/) Приоритет операторов, функции и передача параметров в функции
-4. [Четвертая](/New_lections/Fourth_lection.md/) Структуры и контейнер map
-5. [Пятая](/New_lections/Fifth_lection.md/) Контейнер Unordered_map и стандартная библиотека
-6. [Шестая](/New_lections/Sixth_lection.md/)
-7. [Седьмая](/New_lections/Seventh_lection.md/)
-8. [Восьмая](/New_lections/Eighth_lection.md/)
-9. [Девятая](/New_lections/Nineth_lection.md/)
-10. [Десятая](/New_lections/Tenth_lection.md/)
+1. [Первая](/New_lections/lect_01.md/) Циклы и условный оператор
+2. [Вторая](/New_lections/lect_02.md/) Вектор, сортировка и лямбда-функция
+3. [Третья](/New_lections/lect_03.md/) Приоритет операторов, функции и передача параметров в функции
+4. [Четвертая](/New_lections/lect_04.md/) Структуры и контейнер map
+5. [Пятая](/New_lections/lect_05.md/) Контейнер Unordered_map и стандартная библиотека
+6. [Шестая](/New_lections/lect_06.md/)
+7. [Седьмая](/New_lections/lect_07.md/)
+8. [Восьмая](/New_lections/lect_08.md/)
+9. [Девятая](/New_lections/lect_09.md/)
+10. [Десятая](/New_lections/lect_10.md/)
 
 У большинства фрагментов кода будет ссылка на онлайн-компилятор, в котором этот код можно запустить и посмотреть как он работает.
