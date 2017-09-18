@@ -22,7 +22,7 @@
 2. [Вторая](/New_lections/lect_02.md/) Вектор, сортировка и лямбда-функция
 3. [Третья](/New_lections/lect_03.md/) Приоритет операторов, функции и передача параметров в функции
 4. [Четвертая](/New_lections/lect_04.md/) Структуры и контейнер map
-5. [Пятая](/New_lections/lect_05.md/) Контейнер Unordered_map и стандартная библиотека
+5. [Пятая](/New_lections/lect_05.md/) Контейнер unordered_map и стандартная библиотека
 6. [Шестая](/New_lections/lect_06.md/)
 7. [Седьмая](/New_lections/lect_07.md/)
 8. [Восьмая](/New_lections/lect_08.md/)
