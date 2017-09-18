@@ -16,13 +16,13 @@
 
 Файл .vimrc от Алексея Игоревича (тут будет ссылка на него). [сам файл](/New_lections/.vimrc/)
 
-Ссылки на лекции. Всего 10 лекций, значит 10 ссылок. назовем по темам.
+Ссылки на лекции. Всего 10 лекций, значит 10 ссылок. назовем по номерам.
 
-1. [Первая](/New_lections/First_lection.md/)
-2. [Вторая](/New_lections/Second_lection.md/)
-3. [Третья](/New_lections/Third_lection.md/)
-4. [Четвертая](/New_lections/Fourth_lection.md/)
-5. [Пятая](/New_lections/Fifth_lection.md/)
+1. [Первая](/New_lections/First_lection.md/) Циклы и условный оператор
+2. [Вторая](/New_lections/Second_lection.md/) Вектор, сортировка и лямбда-функция
+3. [Третья](/New_lections/Third_lection.md/) Приоритет операторов, функции и передача параметров в функции
+4. [Четвертая](/New_lections/Fourth_lection.md/) Структуры и контейнер map
+5. [Пятая](/New_lections/Fifth_lection.md/) Контейнер Unordered_map и стандартная библиотека
 6. [Шестая](/New_lections/Sixth_lection.md/)
 7. [Седьмая](/New_lections/Seventh_lection.md/)
 8. [Восьмая](/New_lections/Eighth_lection.md/)
