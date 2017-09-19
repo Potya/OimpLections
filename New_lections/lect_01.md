@@ -8,13 +8,13 @@ Disclaimer: не пытайтесь скомпилировать этот фай
 Вот ссылка на один из последних черновиков стандарта [C++14](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3797.pdf "Стандарт C++14").
 
 Напишем простейшую программу "Hello, world!"
-
+[
     #include <iostream>
 
     int main() {
         std::cout << "Hello, world\n";
     }
-
+](https://godbolt.org/g/e3tgUk)
 [Run](https://godbolt.org/g/e3tgUk)
 
 Любая программа на C++ начинает исполнение с функции main.
