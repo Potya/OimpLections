@@ -23,7 +23,7 @@
 4. [Четвертая](/New_lections/lect_04.md/) Структуры и контейнер map
 5. [Пятая](/New_lections/lect_05.md/) Контейнер unordered_map и стандартная библиотека
 6. [Шестая](/New_lections/lect_06.md/) Алгоритмы стандартной библиотеки: for_each, remove_if, unique
-7. [Седьмая](/New_lections/lect_07.md/) Class, struct. Пишем class Date
+7. [Седьмая](/New_lections/lect_07.md/) Class, struct. Пишем class Date, class Matrix
 8. [Восьмая](/New_lections/lect_08.md/) Конструктор, деструктор, итераторы в class Date
 9. [Девятая](/New_lections/lect_09.md/) Размер на стеке, наследование.
 10. [Десятая](/New_lections/lect_10.md/) Идиому RAII.
