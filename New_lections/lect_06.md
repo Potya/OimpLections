@@ -123,7 +123,7 @@
 
 Поэтому код функции copy (мы его писали на прошлом занятии):
 
-    template <typename InputIterator, template OutputIterator>
+    template <typename InputIterator, typename OutputIterator>
     OutputIterator copy(
         InputIterator first,
         InputIterator last,
@@ -172,6 +172,7 @@
           );  // удаляем этот мусор с помощью erase.
     }
 
+[Run](http://rextester.com/YSMYP99402)
 
 Аналогичный пример - функция unique.
 Эта функция переупорядочивает элементы вектора так,
@@ -195,3 +196,4 @@
         );
     }
 
+[Run](http://rextester.com/ZWLV52395)
