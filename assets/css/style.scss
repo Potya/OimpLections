@@ -1,7 +1,8 @@
 ---
 ---
 
-lessc --strict-math=on
+lessc -sm=on;
+lessc --strict-math=on;
 
 @import 'jekyll-theme-dinky';
 
