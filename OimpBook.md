@@ -1,6 +1,6 @@
 ---
 layout: OimpBook
-title: Blogging Like a Hacker
+title: Пилотный поток
 ---
 
 ### "Основы и методология программирования на ПМИ"
