@@ -1,3 +1,8 @@
+---
+layout: OimpBook
+title: Лекция 3
+---
+
 # Лекция 3
 
 Приоритет операторов: рассмотрим вот эту [таблицу](http://en.cppreference.com/w/cpp/language/operator_precedence "Приоритет операторов").
