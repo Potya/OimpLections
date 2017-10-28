@@ -22,15 +22,15 @@ title: Пилотный поток
 
 Ссылки на лекции. Всего 10 лекций, значит 10 ссылок.
 
-1. [Первая](/New_lections/lect_01.md/) Циклы и условный оператор
-2. [Вторая](/New_lections/lect_02.md/) Вектор, сортировка и лямбда-функция
-3. [Третья](/New_lections/lect_03.md/) Приоритет операторов, функции и передача параметров в функции
-4. [Четвертая](/New_lections/lect_04.md/) Структуры и контейнер map
-5. [Пятая](/New_lections/lect_05.md/) Контейнер unordered_map и стандартная библиотека
-6. [Шестая](/New_lections/lect_06.md/) Алгоритмы стандартной библиотеки: for_each, remove_if, unique
-7. [Седьмая](/New_lections/lect_07.md/) Class, struct. Пишем class Date, class Matrix
-8. [Восьмая](/New_lections/lect_08.md/) Конструктор, деструктор, итераторы в class Date
-9. [Девятая](/New_lections/lect_09.md/) Размер на стеке, наследование.
-10. [Десятая](/New_lections/lect_10.md/) Идиому RAII.
+1. [ Циклы и условный оператор ](/New_lections/lect_01.md/)
+2. [ Вектор, сортировка и лямбда-функция ](/New_lections/lect_02.md/) 
+3. [ Приоритет операторов, функции и передача параметров в функции ](/New_lections/lect_03.md/) 
+4. [ Структуры и контейнер map ](/New_lections/lect_04.md/) 
+5. [ Контейнер unordered_map и стандартная библиотека ](/New_lections/lect_05.md/) 
+6. [ Алгоритмы стандартной библиотеки: for_each, remove_if, unique ](/New_lections/lect_06.md/) 
+7. [ Class, struct. Пишем class Date, class Matrix ](/New_lections/lect_07.md/) 
+8. [ Конструктор, деструктор, итераторы в class Date ](/New_lections/lect_08.md/) 
+9. [ Размер на стеке, наследование ](/New_lections/lect_09.md/) 
+10. [ Идиома RAII ](/New_lections/lect_10.md/) 
 
 У большинства фрагментов кода будет ссылка на онлайн-компилятор, в котором этот код можно запустить и посмотреть как он работает.
