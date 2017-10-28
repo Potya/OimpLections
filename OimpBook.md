@@ -1,3 +1,8 @@
+---
+layout: OimpBook
+title: Blogging Like a Hacker
+---
+
 ### "Основы и методология программирования на ПМИ"
 
 15 Сентября 2017
