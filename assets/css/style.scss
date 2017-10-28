@@ -1,9 +1,6 @@
 ---
 ---
 
-lessc -sm=on;
-lessc --strict-math=on;
-
 @import 'jekyll-theme-dinky';
 
 .wrapper {
@@ -17,7 +14,7 @@ header {
 }
 
 section {
-    width: cacl(~"100% - 350px");
+    width: cacl(100% - 350px);
 }
 
 body {
