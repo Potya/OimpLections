@@ -20,3 +20,12 @@ section {
 body {
     padding-top: 0px;
 }
+
+a.noimage {
+    background: none;
+    padding: 2px 2px 2px 2px;
+}
+
+a.back {
+    background: url(/OimpLections/images/back.png) no-repeat;
+}
